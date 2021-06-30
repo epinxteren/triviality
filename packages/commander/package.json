@@ -39,7 +39,7 @@
     "@triviality/core": "^1.2.5",
     "@triviality/logger": "^1.1.6",
     "@types/find-up": "2",
-    "commander": "2",
+    "commander": "8",
     "find-up": "3"
   },
   "gitHead": "3e4f54f72947d1101c51d7bee3fddf313ac92467"
