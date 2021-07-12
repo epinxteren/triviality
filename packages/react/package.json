@@ -37,7 +37,7 @@
   "homepage": "https://github.com/triviality-js/triviality#README",
   "dependencies": {
     "@triviality/core": "^1.2.5",
-    "@types/react": "16",
+    "@types/react": "17",
     "moment": "^2",
     "react": "^16"
   },
